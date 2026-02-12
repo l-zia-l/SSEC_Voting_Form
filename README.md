@@ -1,4 +1,4 @@
-# School Election & Announcement Portal
+# SSEC Voting App
 
 A custom-built web application designed to modernize the student leadership election process and streamline school announcements. This project was developed as a functional extension/replica of my high school's old official website and was **successfully implemented and used during live voting day.**
 
